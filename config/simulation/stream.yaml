@@ -1,0 +1,8 @@
+kind: simulation
+name: streamSimulation
+spec:
+  type: stream
+  caseId: increasing
+  load:
+    loadBehavior: constant
+    load: 10

@@ -1,0 +1,6 @@
+kind: simulation
+name: countBasedSimulation
+spec:
+  type: countBased
+  steps: 100
+  caseId: increasing
